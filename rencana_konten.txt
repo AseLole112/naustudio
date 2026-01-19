@@ -1,6 +1,9 @@
 Rencana Konten 
 - Belajar bersama
 - Tidur setiap hari
+  ^ jam 10 malam
 - Makan 2x sehari
   ^ pagi dan malam
+
+
 
