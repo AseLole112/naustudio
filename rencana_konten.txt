@@ -3,5 +3,7 @@ Rencana Konten
 - Tidur setiap hari
   ^ jam 10 malam
 - Makan 2x sehari
-  ^ siang dan sore
-- Berak sehari sekali
+  ^ pagi dan malam
+
+
+
