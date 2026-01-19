@@ -2,4 +2,5 @@ Rencana Konten
 - Belajar bersama
 - Tidur setiap hari
 - Makan 2x sehari
-- Berak sehari sekali
+  ^ pagi dan malam
+
